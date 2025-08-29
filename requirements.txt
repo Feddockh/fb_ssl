@@ -1,3 +1,9 @@
-torch
-torchvision
-lightly-train
+lightly_train==0.11.1
+numpy==2.2.6
+pillow==11.3.0
+PyYAML==6.0.2
+scipy==1.15.3
+tensorboard==2.20.0
+torch==2.5.1
+torchmetrics==1.8.1
+torchvision==0.20.1
